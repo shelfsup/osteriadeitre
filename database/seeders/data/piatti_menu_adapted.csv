@@ -1,0 +1,70 @@
+id,ordinamento,nome_italiano,nome_inglese,prezzo,prezzo_asporto,asporto,solo_asporto,photo,descrizione_italiano,descrizione_inglese,show_desc,surgelato,allergeni,id_categoria_menu,enable,created_at,updated_at
+3,0,ARROSTICINI (5pz),Sticks of sheep (5 pieces),5.0,,0,0,,,,0,0,[],2,1,2024-07-30 20:30:26,2024-08-20 12:01:40
+4,1,PARMIGIANA DI MELANZANE,Parmigiana,9.0,,0,0,,,"Eggplants parmigiana, mozzarella, tomato sauce and parmesan",0,0,"[""4"", ""5"", ""3"", ""9""]",2,1,2024-07-30 20:32:39,2024-08-20 12:01:40
+5,2,polpette al sugo,meatballs with tomato sauce ,11.0,,0,0,,,,0,0,"[""3"", ""4"", ""5"", ""14"", ""13""]",2,1,2024-07-30 20:34:18,2024-08-05 09:10:28
+6,3,polpette cacio e pepe,meatballs with cacio e pepe sauce ,11.0,,0,0,,,pecorino and parmesan sauce and black pepper ,0,0,"[""3"", ""4"", ""5"", ""13"", ""14""]",2,1,2024-07-30 20:35:47,2024-08-05 09:10:28
+7,4,TARTARE DI MANZO,tartare,13.0,,0,0,,"olio, sale e pepe / stracciatella di bufala e granella di pistacchio",Raw beef tartare,0,0,[],2,1,2024-07-30 20:36:48,2024-08-05 09:10:28
+8,5,coratella,coratella,10.0,,0,0,,,lamb innards ,0,0,"[""4""]",2,1,2024-07-30 20:38:16,2024-08-05 09:10:28
+9,6,trippa,trippa,10.0,,0,0,,,Tripe with tomato sauce and pecorino cheese ,0,0,"[""5"", ""11""]",2,1,2024-07-30 20:39:09,2024-08-05 09:10:28
+10,7,polpette di melanzane,eggplant-balls and pecorino cheese sauce ,9.0,8.0,1,0,,polpette di melanzane fritte con crema di pecorino,,0,0,"[""4"", ""5"", ""14"", ""3"", ""9""]",2,1,2024-07-30 20:41:01,2024-08-05 09:10:28
+11,8,tagliere di salumi e formaggi ,selection of typical cheeses and mix of ham and salami,14.0,,0,0,,,,0,0,"[""3"", ""13""]",2,1,2024-07-30 20:43:00,2024-08-05 09:10:28
+12,9,crudo e bufala,ham and bufala mozzarella,12.0,,0,0,,,,0,0,"[""5"", ""13""]",2,1,2024-07-30 20:43:55,2024-09-11 05:35:52
+13,10,carbonara,carbonara,10.0,,0,0,,,"pasta with eggs, guanciale and pecorino cheese",0,0,"[""4"", ""5"", ""13"", ""14""]",3,1,2024-07-30 20:48:46,2024-08-20 12:01:40
+14,11,amatriciana,amatriciana,10.0,,0,0,,,"pasta with tomato sauce, guanciale and pecorino cheese",0,0,"[""5"", ""4"", ""13""]",3,1,2024-07-30 20:49:39,2024-08-20 12:01:40
+15,12,cacio e pepe,cacio e pepe,10.0,,0,0,,,pasta with pecorino cheese and parmesan cream ,0,0,"[""4"", ""5""]",3,1,2024-07-30 20:50:36,2024-08-20 12:01:40
+16,13,rigatoni al sugo di coda,sugo di coda,13.0,,0,0,,,"pasta with tomato sauce, cow meat and pecorino cheese ",0,0,"[""4"", ""5"", ""11""]",3,1,2024-07-30 20:51:56,2024-08-20 12:01:40
+17,14,involtini in umido ,involtini in umido ,15.0,,0,0,,involtini di manzo ripieni di guanciale e pecorino cotti nel pomodoro,"stewed meat rolls stuffed with pecorino cheese and guanciale, tomato sauce)",0,0,"[""4"", ""5"", ""11"", ""13""]",4,1,2024-07-30 21:03:58,2024-10-18 18:22:31
+18,15,coniglio ripieno ,coniglio ripieno,18.0,,0,0,,coniglio disossato ripieno di salsiccia,Rubbit filled with pork sausage,0,0,"[""3"", ""5"", ""11"", ""13""]",4,1,2024-07-30 21:07:30,2024-08-05 08:48:09
+19,16,tagliata di manzo ,Steak beef,23.0,,0,0,,300gm ,300gm,0,0,"[""13""]",4,1,2024-07-30 21:10:10,2024-08-05 08:48:09
+20,17,filetto di manzo,beef fillet ,24.0,,0,0,,250gm ,250gm,0,0,"[""13""]",4,1,2024-07-30 21:10:59,2024-08-05 08:48:09
+21,18,patate al forno ,roasted potatoes ,6.0,,0,0,,,,0,0,[],5,1,2024-07-30 21:13:05,2024-08-20 12:01:48
+22,19,cicoria,chicory ,6.0,,0,0,,,,0,0,[],5,1,2024-07-30 21:13:44,2024-08-20 12:01:40
+23,20,verdure grigliate ,zucchini and eggplants grilled ,6.0,,0,0,,melanzane e zucchine ,,0,0,[],5,1,2024-07-30 21:14:25,2024-08-20 12:01:40
+25,24,tiramisu,tiramisu ,6.0,,0,0,,,,0,0,"[""5"", ""14"", ""4"", ""13""]",10,0,2024-07-30 21:17:17,2024-10-16 17:27:50
+26,25,brownie con gelato,brownie with ice cream ,6.0,5.0,1,0,,,,0,0,"[""1"", ""3"", ""4"", ""5"", ""14""]",10,1,2024-07-30 21:18:50,2024-10-15 17:36:16
+27,26,cheesecake ,cheesecake ,6.0,5.0,1,0,,pistacchio / nutella / frutti di bosco / caramello salato ,pistacchio / nutella / berries / salted caramel ,0,0,"[""1"", ""3"", ""4"", ""5"", ""13"", ""14""]",10,1,2024-07-30 21:22:10,2024-10-15 17:36:16
+29,27,semifreddo al torroncino ,icecream torroncino ,6.0,,0,0,,,,0,0,"[""1"", ""3"", ""5"", ""14"", ""12""]",10,1,2024-07-30 21:30:18,2024-09-27 15:22:51
+30,28,croccante al pistacchio ,icecream pistacchio ,6.0,,0,0,,,,0,0,"[""1"", ""3"", ""5"", ""14"", ""12""]",10,1,2024-07-30 21:31:32,2024-09-27 15:22:51
+31,29,croccante all'amarena,black cherry icecream ,6.0,,0,0,,,,0,0,"[""1"", ""3"", ""5"", ""12"", ""14""]",10,1,2024-07-30 21:35:03,2024-09-27 15:22:51
+32,30,sorbetto al limoncello ,limoncello ice-cream ,6.0,,0,0,,,,0,0,"[""14"", ""5""]",10,1,2024-07-30 21:36:17,2024-09-27 15:22:51
+33,31,tartufo di pizzo calabro ,italian truffle ice-cream,6.0,,0,0,,classico / pistacchio ,chocolate / pistacchio ,0,0,"[""3"", ""1"", ""5"", ""14""]",10,1,2024-07-30 21:37:48,2024-09-27 15:22:51
+34,48,AMARO DEL CAPO,AMARO DEL CAPO,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:28:52,2024-09-27 15:22:51
+35,49,MONTENEGRO,MONTENEGRO,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:29:36,2024-09-27 15:22:51
+36,50,AVERNA ,AVERNA,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:30:01,2024-09-27 15:22:51
+37,51,FERNET BRANCA ,FERNET BRANCA,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:31:00,2024-09-27 15:22:51
+38,52,BRANCA MENTA ,BRANCA MENTA ,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:31:20,2024-09-27 15:22:51
+39,53,UNICUM,UNICUM,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:31:50,2024-09-27 15:22:51
+40,54,MIRTO,MIRTO,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:32:10,2024-09-27 15:22:51
+41,55,GENZIANA ,GENZIANA ,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:32:27,2024-09-27 15:22:51
+42,56,LIMONCELLO,LIMONCELLO ,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:32:45,2024-09-27 15:22:51
+43,57,Jägermeister,Jägermeister,3.5,,0,0,,,,0,0,[],14,1,2024-07-30 22:33:23,2024-09-27 15:22:51
+44,58,JEFFERSON,JEFFERSON,5.0,,0,0,,,,0,0,[],14,1,2024-07-30 22:34:18,2024-09-27 15:22:51
+45,59,GRAPPA BIANCA ,GRAPPA BIANCA ,4.0,,0,0,,,,0,0,[],14,1,2024-07-30 22:39:36,2024-09-27 15:22:51
+46,60,GRAPPA BARRICATA,GRAPPA BARRICATA ,4.0,,0,0,,,,0,0,[],14,1,2024-07-30 22:39:58,2024-09-27 15:22:51
+50,33,ACQUA FERRARELLE ,sparkling water,3.0,,0,0,,,,0,0,[],13,1,2024-07-30 22:48:47,2024-09-27 15:22:51
+51,34,ACQUA NATIA ,STILL WATER ,3.0,,0,0,,,,0,0,[],13,1,2024-07-30 22:49:18,2024-09-27 15:22:51
+52,35,COCA COLA 33CL,COCA COLA 33CL,3.5,2.5,1,0,,,,0,0,[],13,1,2024-07-30 22:50:40,2024-09-27 15:22:51
+53,36,COCA COLA ZERO 33CL,COCA COLA ZERO 33CL,3.5,2.5,1,0,,,,0,0,[],13,1,2024-07-30 22:53:33,2024-09-27 15:22:51
+54,37,FANTA 33CL,FANTA 33CL,3.5,2.5,1,0,,,,0,0,[],13,1,2024-07-30 22:53:59,2024-09-27 15:22:51
+55,38,SPRITE 33CL,SPRITE 33CL,3.5,2.5,1,0,,,,0,0,[],13,1,2024-07-30 22:54:23,2024-09-27 15:22:51
+56,39,COCA COLA 1LT,COCA COLA 1LT,6.0,3.0,1,0,,,,0,0,[],13,1,2024-07-30 22:54:46,2024-09-27 15:22:51
+57,40,"BIRRA ALLA SPINA 0,2","BEER 0,2",3.5,,0,0,,MORETTI BAFFO D’ORO / ICHNUSA NON FILTRATA / MORETTI ROSSA,MORETTI BAFFO D’ORO / ICHNUSA NON FILTRATA / MORETTI ROSSA,0,0,[],13,1,2024-07-30 22:57:55,2024-09-27 15:22:51
+58,41,BIRRA ALLA SPINA 0.4,BEER 0.4,5.0,,0,0,,MORETTI BAFFO D’ORO / ICHNUSA NON FILTRATA / MORETTI ROSSA,MORETTI BAFFO D’ORO / ICHNUSA NON FILTRATA / MORETTI ROSSA,0,0,[],13,1,2024-07-30 22:58:27,2024-09-27 15:22:51
+59,43,BIRRA ARTIGIANALE FLEA 33CL,BOTTLES BEER ,5.5,4.0,1,0,,IPA / WEISS / ROSSA ,IPA / WEISS / ROSSA,0,0,[],13,1,2024-07-30 23:00:50,2024-09-27 15:22:51
+60,44,CAFFÈ ,Coffee,2.0,,0,0,,,,0,0,[],13,1,2024-07-30 23:01:38,2024-09-27 15:22:51
+61,45,SPRITZ,SPRITZ,6.0,,0,0,,,,0,0,[],13,1,2024-07-30 23:02:46,2024-09-27 15:22:51
+62,46,HEINEKEN,HEINEKEN ,4.0,3.0,1,0,,66 cl,66 cl ,0,0,[],13,1,2024-08-02 16:01:34,2024-09-27 15:22:51
+63,47,ICHNUSA NON FILTRATA,ICHNUSA NON FILTRATA,4.0,3.5,1,0,,50 cl,50 cl,0,0,[],13,1,2024-08-02 16:02:29,2024-09-27 15:22:51
+64,61,SAMBUCA,SAMBUCA ,3.5,,0,0,,,,0,0,[],14,1,2024-08-02 16:05:39,2024-09-27 15:22:51
+65,62,DENTE DI LEONE,DENTE DI LEONE,4.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:05:59,2024-09-27 15:22:51
+66,63,ZACAPA 23,ZACAPA 23,8.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:06:45,2024-09-27 15:22:51
+67,64,DIPLOMATICO ,DIPLOMATICO ,8.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:07:53,2024-09-27 15:22:51
+68,65,DON PAPA,DON PAPA,8.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:08:07,2024-09-27 15:22:51
+69,66,TALISKER,TALISKER,8.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:08:23,2024-09-27 15:22:51
+70,67,OBAN ,OBAN ,8.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:08:36,2024-09-27 15:22:51
+71,68,LAPHROAIG,LAPHROAIG ,8.0,,0,0,,,,0,0,[],14,1,2024-08-02 16:09:38,2024-09-27 15:22:51
+72,32,tiramisù senza glutine ,Tiramisù glutenfree,6.0,,0,0,,,,0,1,"[""5"", ""14"", ""13""]",10,1,2024-08-11 17:20:36,2024-09-27 15:22:51
+73,42,MORETTI IPA ,Ipa Moretti ,4.0,,0,0,,0.33,,0,0,[],13,1,2024-09-11 16:24:01,2024-09-27 15:22:51
+74,23,Mela Pasticcera ,Pastry Apple ,6.0,,0,0,,Mela cotta al forno ripiena di crema pasticcera ricoperta di pasta sfoglia ,,0,0,"[""1"", ""4"", ""5"", ""3"", ""14""]",10,1,2024-09-23 20:07:37,2024-10-15 17:36:16
+75,22,Tortino al cioccolato,Tortino al cioccolato ,6.0,,0,0,,,,0,0,"[""14"", ""3"", ""4""]",10,1,2024-10-06 17:49:44,2024-10-16 17:27:48
+76,0,Broccoletti,Broccoletti ,6.0,,0,0,,,,0,0,[],5,1,2024-10-17 18:37:34,2024-10-17 18:37:34
