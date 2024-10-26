@@ -173,7 +173,7 @@
                                         <div style="border-radius: 12px; background-size: cover; background-blend-mode: multiply;" id="collapseSotto{{ $sottocategoria->id }}" class="accordion-collapse collapse" :class="{ 'show': open }" aria-labelledby="headingSotto{{ $sottocategoria->id }}" data-bs-parent="#sottocategorieAccordion{{ $categoria->id }}">
                                             <div class="accordion-body" style="padding-left: 5px !important; padding-right: 0.1rem !important;">
                                                 @foreach ($sottocategoria->piattiSottocategorie as $piatto)
-                                                    <div class=" py-2 tabella-piatto-sottocategoria" style="border-bottom: 1px solid var(--bg-border-bottom-piatto);" data-lingua="{{ $selectedLanguage }}" data-piatto-id="{{ $piatto->id }}" data-asporto="{{ true }}" style="width: 100%;">
+                                                    <div class=" py-2 tabella-piatto-sottocategoria" style="border-bottom: 1px solid var(--bg-border-bottom-piatto);" data-lingua="{{ $selectedLanguage }}" data-piatto-id="{{ $piatto->id }}" data-asporto="{{ false }}" style="width: 100%;">
                                                         <div class="d-flex justify-content-start align-items-center gap-2">
                                                             <div class="d-flex flex-column py-2 flex-fill">
                                                                 <div class="d-flex justify-content-between align-items-center piatto-info">
@@ -218,7 +218,7 @@
                                                                 <div style="border-radius: 12px; background-size: cover; background-blend-mode: multiply;" id="collapseSottoSotto{{ $sottoSottocategoria->id }}" class="accordion-collapse collapse" :class="{ 'show': open }" aria-labelledby="headingSottoSotto{{ $sottoSottocategoria->id }}" data-bs-parent="#sottoSottocategorieAccordion{{ $categoria->id }}">
                                                                     <div class="accordion-body" style="padding-left: 5px !important; padding-right: 0.1rem !important;">
                                                                         @foreach ($sottoSottocategoria->piattiSottoSottocategorie as $piatto)
-                                                                            <div class=" py-2 tabella-piatto-sotto-sottocategoria" style="border-bottom: 1px solid var(--bg-border-bottom-piatto);" data-lingua="{{ $selectedLanguage }}" data-piatto-id="{{ $piatto->id }}" data-asporto="{{ true }}" style="width: 100%;">
+                                                                            <div class=" py-2 tabella-piatto-sotto-sottocategoria" style="border-bottom: 1px solid var(--bg-border-bottom-piatto);" data-lingua="{{ $selectedLanguage }}" data-piatto-id="{{ $piatto->id }}" data-asporto="{{ false }}" style="width: 100%;">
                                                                                 <div class="d-flex justify-content-start align-items-center gap-2">
                                                                                     <div class="d-flex flex-column py-2 flex-fill">
                                                                                         <div class="d-flex justify-content-between align-items-center piatto-info">
