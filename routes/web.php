@@ -9,7 +9,7 @@ use App\Http\Controllers\TwoFactorChallengeController;
 
 App::setLocale('it');
 
-Route::get('/menu', function () {
+Route::get('/Menu_Osteria_dei_Tre.pdf', function () {
     return view('menu-online');
 })->name('menu_ristorante');
 
