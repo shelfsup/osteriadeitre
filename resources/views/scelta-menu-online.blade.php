@@ -147,7 +147,7 @@
 
         .preloader-container {
             /* background-image: url('/svg/sfondo_body1.png'); */
-            background: #000000;
+            background: #816d54;
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
